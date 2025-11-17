@@ -1,6 +1,8 @@
 # 💫 About Me:
-🛠️ I’m currently working on<br><br>Building full-stack projects using React, Node.js, MongoDB, and Express<br><br>Improving my DSA & system design skills<br><br>Exploring AI-powered tools and automation<br><br>🤝 I’m looking to collaborate on<br><br>Full-stack web apps<br><br>Open-source React/Node.js projects<br><br>Anything involving automation or AI integration<br><br>🙋‍♂️ I’m looking for help with<br><br>Advanced backend architecture<br><br>Cloud deployments (AWS / Docker / CI-CD)<br><br>Writing clean, scalable code patterns<br><br>🌱 I’m currently learning<br><br>TypeScript<br><br>Backend security & authentication systems<br><br>💬 Ask me about<br><br>React, Node.js, MongoDB<br><br>How to start learning full-stack development<br><br>GitHub, portfolio building, and productivity tips<br><br>⚡ Fun fact<br><br>I break things just to fix them—and learn twice as fast 😄
-
+m currently working on full-stack development projects using React, Node.js, MongoDB, and Express, while also improving my DSA and System Design skills. I’m always open to collaborating on open-source, full-stack applications, or projects involving AI or automation. I’m also looking for help with backend architecture, cloud deployments (like AWS, Docker, and CI/CD), and writing scalable backend code.
+Right now, I’m learning DevOps fundamentals such as Docker and GitHub Actions, exploring TypeScript, and enhancing my understanding of backend security.
+Feel free to ask me about React, Node.js, MongoDB, full-stack development, GitHub, or productivity techniques.
+Fun fact — I often break things just so I can fix them and learn even more in the process! 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatinkumarmajoka/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jatinmajoka12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatinmajoka1231@gmail.com) 
