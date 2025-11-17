@@ -1,6 +1,6 @@
 # 💫 About Me:
-m currently working on full-stack development projects using React, Node.js, MongoDB, and Express, while also improving my DSA and System Design skills. I’m always open to collaborating on open-source, full-stack applications, or projects involving AI or automation. I’m also looking for help with backend architecture, cloud deployments (like AWS, Docker, and CI/CD), and writing scalable backend code.
-Right now, I’m learning DevOps fundamentals such as Docker and GitHub Actions, exploring TypeScript, and enhancing my understanding of backend security.
+I'm currently working on full-stack development projects using React, Node.js, MongoDB, and Express, while also improving my DSA and System Design skills. I’m always open to collaborating on open-source, full-stack applications, or projects involving AI or automation. I’m also looking for help with backend architecture, cloud deployments (like AWS, Docker, and CI/CD), and writing scalable backend code.
+Right now, I’m learning React Advance, Next JS, and enhancing my understanding of backend security.
 Feel free to ask me about React, Node.js, MongoDB, full-stack development, GitHub, or productivity techniques.
 Fun fact — I often break things just so I can fix them and learn even more in the process! 😄
 
