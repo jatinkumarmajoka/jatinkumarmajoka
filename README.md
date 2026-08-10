@@ -18,36 +18,35 @@
 
 ## 🌟 About Me
 
-```js
-const jatin = {
-  role: "Full-Stack Developer",
-  location: "Haryana, India 🇮🇳",
-  currentFocus: [
-    "Advanced React",
-    "Next.js",
-    "Backend Security",
-    "System Design",
-    "Scalable APIs"
-  ],
-  learning: [
-    "Docker",
-    "AWS",
-    "CI/CD",
-    "Redis",
-    "TypeScript",
-    "AI Integrations"
-  ],
-  askMeAbout: [
-    "React",
-    "Node.js",
-    "MongoDB",
-    "Express.js",
-    "Next.js",
-    "GitHub"
-  ],
-  funFact: "I break things intentionally just to learn how to fix them 😄"
-};
-```
+- 💻 Passionate **Full-Stack Developer** from **Haryana, India 🇮🇳**
+- 🚀 Building modern web apps with **React, Next.js, Node.js, Express & MongoDB**
+- 🧠 Improving my **DSA, System Design & scalable backend architecture** skills
+- ⚡ Currently learning **Advanced React, Next.js, Docker, AWS & CI/CD**
+- 🤖 Exploring **AI-powered applications, automation tools & productivity systems**
+- 🔒 Interested in **backend security, authentication & performance optimization**
+- 🤝 Open to collaborating on **MERN, SaaS, AI, and open-source projects**
+- 🎯 Goal: **Become a strong full-stack engineer who can build and deploy production-ready applications**
+- 😄 Fun fact: *I often break things just to learn how to fix them better.*
+
+---
+
+### 🚀 What I’m Working On
+
+- 🔹 Full-stack MERN applications  
+- 🔹 Next.js projects with Tailwind CSS  
+- 🔹 REST APIs & JWT authentication  
+- 🔹 AI integrations using modern APIs  
+- 🔹 Docker & cloud deployment workflows  
+
+---
+
+### 💡 Ask Me About
+
+`React` • `Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `Git & GitHub`
+
+---
+
+> **"Keep building, keep learning, and let every bug teach you something new." 🚀**
 
 ---
 
