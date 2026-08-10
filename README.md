@@ -2,7 +2,7 @@
 
 # 🚀 Jatin Kumar Majoka
 
-### 💻 Full-Stack Developer | MERN Stack Enthusiast | Next.js Learner | AI Explorer
+### 💻 Full-Stack Developer | AI Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Learning+Next.js+%26+Advanced+React;Exploring+AI+%26+Automation;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 
