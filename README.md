@@ -54,6 +54,11 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php" />
 </p>
 
+### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,vite,prisma" />
+</p>
+
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
@@ -66,11 +71,8 @@
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,jest,eslint,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,jest,eslint,notion,composer,npm" />
 </p>
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
