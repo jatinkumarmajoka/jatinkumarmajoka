@@ -49,6 +49,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,chakraui" />
 </p>
 
+
 ### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php" />
@@ -56,7 +57,7 @@
 
 ### 🧩 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,vite,prisma" />
+  <img src="https://skillicons.dev/icons?i=laravel,vite,tailwind" />
 </p>
 
 ### 🗄️ Databases
@@ -71,7 +72,7 @@
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,jest,eslint,notion,composer,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion,npm,composer" />
 </p>
 ## 📈 GitHub Analytics
 
